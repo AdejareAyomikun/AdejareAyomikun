@@ -38,8 +38,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Personal Website / Blog]**([your_website_or_blog_lin](https://sites.google.com/view/adejare-faruk))
+- **[LinkedIn]**(www.linkedin.com/in/faruk-ayomikun)
 - **[Twitter]**(your_twitter_profile_link)
 
 
