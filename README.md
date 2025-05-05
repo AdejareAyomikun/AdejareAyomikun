@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Frontend developer ** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScript, React, Nextjs**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Nextjs**
 - 🔭 Working on: **[current projects or side-projects]**
