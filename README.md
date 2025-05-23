@@ -9,7 +9,7 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 - 🌱 Currently learning: **Nextjs**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 📫 How to reach me: **farukpamilerin@gmail.com, 07037289267**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
