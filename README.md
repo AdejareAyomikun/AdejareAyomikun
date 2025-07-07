@@ -10,7 +10,7 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **farukpamilerin@gmail.com, 07037289267**
-- ⚡ Fun fact: **I discovered programming at a time when I was struggling academically, and it completely changed my perspective. What started as a way to turn things around became a passion—I’ve grown to truly love software development**
+- ⚡ Fun fact: **I discovered programming at a time when I was struggling academically, and it completely changed my perspective. What started as a way to turn things around became a passion. I’ve grown to truly love software development**
 
 ## My Skills 🧠
 
