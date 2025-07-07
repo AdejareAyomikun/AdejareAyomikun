@@ -26,17 +26,24 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 
 ![Project 1 Screenshot](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main/blob/main/design/desktop-design.jpg)
 
-**[Airbnb Clone Project]** is a **[full-stack web application]** built with **[React, Tailwind CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
+**[intro-section-with-dropdown-navigation-main]** is a **[front end web application]** built with **[HTML, CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
+
+### [nft-preview-card](https://github.com/AdejareAyomikun/nft-preview-card)
+
+![Project 2 Screenshot](https://github.com/AdejareAyomikun/nft-preview-card/blob/main/images/desktop-preview.jpg)
+
+**[nft-preview-card]** is a **[full-stack web application]** built with **[React, Tailwind CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
+
 
 ### [Airbnb Clone Project](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 3 Screenshot](project_1_screenshot_url)
 
 **[Airbnb Clone Project]** is a **[full-stack web application]** built with **[React, Tailwind CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link).
 
 ### [ALX Listing App](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 4 Screenshot](project_2_screenshot_url)
 
 **[ALX Listing App]** is a **[property listing web application]** built with **[Next.js, TypeScript, and Tailwind CSS]**. This project showcases my skills in **[modern frontend frameworks, type-safe development, and component-driven architecture using the Next.js ecosystem.]**. You can check out the repository [here](project_2_repository_link).
 
