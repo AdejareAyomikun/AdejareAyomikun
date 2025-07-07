@@ -1,6 +1,6 @@
 # Hi there, I'm Adejare Faruk Ayomikun! 👋
 
-![Banner Image]([[https://drive.google.com/file/d/1KBJVln44RjBh2e2gWgyqcaVBdiW7DYE7/view?usp=sharing](https://www.google.com/imgres?q=picture%20of%20of%20a%20developer&imgurl=https%3A%2F%2Fwww.michaelpage.com.au%2Fsites%2Fmichaelpage.com.au%2Ffiles%2Fstyles%2Fadvice_node_desktop%2Fpublic%2F2022-01%2FSoftware%2520Developer.jpg.webp%3Fitok%3DFMZ_gBBG&imgrefurl=https%3A%2F%2Fwww.michaelpage.com.au%2Fadvice%2Fjob-description%2Ftechnology%2Fsoftware-developer&docid=bdnOSghvxQ5v8M&tbnid=Y5M-E8CWgfsd7M&vet=12ahUKEwiFjora6aqOAxV9RUEAHVxxJCgQM3oECFwQAA..i&w=770&h=268&hcb=2&ved=2ahUKEwiFjora6aqOAxV9RUEAHVxxJCgQM3oECFwQAA)])
+![Banner Image]([https://www.google.com/imgres?q=picture%20of%20of%20a%20developer&imgurl=https%3A%2F%2Fwww.michaelpage.com.au%2Fsites%2Fmichaelpage.com.au%2Ffiles%2Fstyles%2Fadvice_node_desktop%2Fpublic%2F2022-01%2FSoftware%2520Developer.jpg.webp%3Fitok%3DFMZ_gBBG&imgrefurl=https%3A%2F%2Fwww.michaelpage.com.au%2Fadvice%2Fjob-description%2Ftechnology%2Fsoftware-developer&docid=bdnOSghvxQ5v8M&tbnid=Y5M-E8CWgfsd7M&vet=12ahUKEwiFjora6aqOAxV9RUEAHVxxJCgQM3oECFwQAA..i&w=770&h=268&hcb=2&ved=2ahUKEwiFjora6aqOAxV9RUEAHVxxJCgQM3oECFwQAA])
 
 ## About Me 🚀
 
