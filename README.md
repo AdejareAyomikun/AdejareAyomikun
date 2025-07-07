@@ -32,7 +32,7 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 
 ![Project 2 Screenshot](https://github.com/AdejareAyomikun/nft-preview-card/blob/main/images/desktop-preview.jpg)
 
-**[nft-preview-card]** is a **[responsive frontend component]** built with **[HTML, CSS, and JavaScript.]**. This project demonstrates my ability to **[Build accessible, mobile-responsive layoutss]**. You can check out the repository [here](project_1_repository_link)
+**[nft-preview-card]** is a **[responsive frontend component]** built with **[HTML, CSS]**. This project demonstrates my ability to **[Build accessible, mobile-responsive layoutss]**. You can check out the repository [here](project_1_repository_link)
 
 
 ### [Airbnb Clone Project](project_1_link)
