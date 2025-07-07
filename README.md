@@ -26,13 +26,13 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 
 ![Project 1 Screenshot](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main/blob/main/design/desktop-design.jpg)
 
-**[intro-section-with-dropdown-navigation-main]** is a **[front end web application]** built with **[HTML, CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
+**[intro-section-with-dropdown-navigation-main]** is a **[front end web application]** built with **[HTML, CSS, and JavaScript.]**. This project demonstrates my ability to **[Build responsive UIs, accessible mobile-responsive layouts, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
 
 ### [nft-preview-card](https://github.com/AdejareAyomikun/nft-preview-card)
 
 ![Project 2 Screenshot](https://github.com/AdejareAyomikun/nft-preview-card/blob/main/images/desktop-preview.jpg)
 
-**[nft-preview-card]** is a **[full-stack web application]** built with **[React, Tailwind CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
+**[nft-preview-card]** is a **[responsive frontend component]** built with **[HTML, CSS, and JavaScript.]**. This project demonstrates my ability to **[Build accessible, mobile-responsive layoutss]**. You can check out the repository [here](project_1_repository_link)
 
 
 ### [Airbnb Clone Project](project_1_link)
