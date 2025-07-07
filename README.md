@@ -22,9 +22,9 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 
 ## Featured Projects 💻
 
-### [intro-section-with-dropdown-navigation-main](project_1_link)
+### [intro-section-with-dropdown-navigation-main](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main)
 
-![Project 1 Screenshot](intro-section-with-dropdown-navigation-main/design/desktop-preview.jpg)
+![Project 1 Screenshot](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main/blob/main/design/desktop-design.jpg)
 
 **[Airbnb Clone Project]** is a **[full-stack web application]** built with **[React, Tailwind CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link)
 
