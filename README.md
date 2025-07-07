@@ -22,17 +22,17 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Airbnb Clone Project](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Airbnb Clone Project]** is a **[full-stack web application]** built with **[React, Tailwind CSS, and JavaScript.]**. This project demonstrates my ability to **[build responsive UIs, structure components effectively, and replicate real-world interfaces with modern frontend tools]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [ALX Listing App](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[ALX Listing App]** is a **[property listing web application]** built with **[Next.js, TypeScript, and Tailwind CSS]**. This project showcases my skills in **[modern frontend frameworks, type-safe development, and component-driven architecture using the Next.js ecosystem.]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
