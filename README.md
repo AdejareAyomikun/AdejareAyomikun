@@ -4,11 +4,11 @@
 
 ## About Me 🚀
 
-I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScript, React, Nextjs**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScript, TypeScript, React, Nextjs**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Nextjs**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌱 Currently learning: **Django and Rest API**
+- 🔭 Working on: **DoubleJoy**
+- 🌍 Languages: **HTML, Css, JavaScript, Reactjs, Nextjs, Python, Django, Postgresql**
 - 📫 How to reach me: **farukpamilerin@gmail.com, 07037289267**
 - ⚡ Fun fact: **I discovered programming at a time when I was struggling academically, and it completely changed my perspective. What started as a way to turn things around became a passion. I’ve grown to truly love software development**
 
@@ -17,11 +17,18 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Nextjs](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 ## Featured Projects 💻
 
+**[Doublejoy]** is a **[responsive e-commerce web application]** built with  **[React, Nextjs, JavaScript, TypeScript.]** designed to provide a **[smooth shopping experience for customers and a secure management interface for administrators.]** It features **[dynamic product and category browsing, state-based delivery fee calculation, authentication with JWT, and protected admin routes for product and order management.]** The frontend communicates seamlessly with **[a Django REST API, ensuring real-time data updates, secure transactions, and scalable performance across devices.]** You can check out the repository [here]([https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main](https://github.com/AdejareAyomikun/double-joy.git))
 ### [intro-section-with-dropdown-navigation-main](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main)
 
 ![Project 1 Screenshot](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main/blob/main/design/desktop-design.jpg)
