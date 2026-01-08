@@ -28,8 +28,11 @@ I'm a passionate **Frontend developer** with experience in **Html, CSS, JavaScri
 
 ## Featured Projects 💻
 
-**[Doublejoy]** is a **[responsive e-commerce web application]** built with  **[React, Nextjs, JavaScript, TypeScript.]** designed to provide a **[smooth shopping experience for customers and a secure management interface for administrators.]** It features **[dynamic product and category browsing, state-based delivery fee calculation, authentication with JWT, and protected admin routes for product and order management.]** The frontend communicates seamlessly with **[a Django REST API, ensuring real-time data updates, secure transactions, and scalable performance across devices.]** You can check out the repository [here]([https://github.com/AdejareAyomikun/double-joy.git](https://github.com/AdejareAyomikun/double-joy.git))
-### [double-joy](https://github.com/AdejareAyomikun/double-joy.git)
+### [Double-joy](https://github.com/AdejareAyomikun/double-joy.git)
+**[Doublejoy]** is a **[responsive e-commerce web application]** built with  **[React, Nextjs, JavaScript, TypeScript.]** designed to provide a **[smooth shopping experience for customers and a secure management interface for administrators.]** It features **[dynamic product and category browsing, state-based delivery fee calculation, authentication with JWT, and protected admin routes for product and order management.]** The frontend communicates seamlessly with **[a Django REST API, ensuring real-time data updates, secure transactions, and scalable performance across devices.]** You can check out the repository [here](https://github.com/AdejareAyomikun/double-joy.git)
+
+
+### [intro-section-with-dropdown-navigation-main](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main)
 
 ![Project 1 Screenshot](https://github.com/AdejareAyomikun/intro-section-with-dropdown-navigation-main/blob/main/design/desktop-design.jpg)
 
